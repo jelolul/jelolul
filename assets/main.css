@@ -46,7 +46,7 @@ body {
 }
 
 .AlertLabel {
-	color: #d1d7ff;
+	color: rgba(255, 255, 255, 0.9);
 	font-size: 24px;
 	/* font-weight: 900; */
 	word-wrap: break-word;
@@ -109,4 +109,5 @@ body {
 	overflow: hidden;
 	text-align: left;
 }
+
 
