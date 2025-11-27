@@ -12,11 +12,9 @@
 [![FACEIT Widget](https://github-readme-stats.vercel.app/api/pin/?username=jelolul&repo=faceit-widget&show_icons=true&bg_color=0D1117&text_color=FFFFFF&icon_color=FFFFFF")](https://github.com/jelolul/faceit-widget)
 
 <br/>
-
-##
  
 [<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jelolul&show_icons=true&bg_color=0D1117&text_color=FFFFFF&icon_color=FFFFFF"/>][github]
 
-[youtube]: https://www.youtube.com/@jelolul
-[twitter]: https://twitter.com/jelolul
+[youtube]: https://www.youtube.com/@jelo1g
+[twitter]: https://twitter.com/jelo1g
 [github]: https://github.com/jelolul
