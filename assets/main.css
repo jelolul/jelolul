@@ -34,7 +34,7 @@ body {
 	width: 500px;
 	height: max-content;
 	max-height: 300px;
-	background: #5865F2;
+	background: #5DA8FE;
 	box-shadow: 0px 0px 9px rgba(26, 25, 32, 0.5);
 	border-radius: 8px;
 	/* transform: skew(-20deg, 0); */
@@ -109,5 +109,6 @@ body {
 	overflow: hidden;
 	text-align: left;
 }
+
 
 
