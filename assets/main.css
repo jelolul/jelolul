@@ -11,8 +11,8 @@
 		linear-gradient(rgba(93, 168, 254, 5%), rgba(93, 168, 254, 5%)),
 		linear-gradient(#0e0e10, #0e0e10); */
 	--color-background: rgba(0, 0, 0, 0.842);
-	--color-background-soft: rgba(0, 0, 0, 0.08);
-	--color-stroke: rgba(0, 0, 0, 0.233);
+	--color-background-soft: rgba(221, 221, 221, 0.801);
+	--color-stroke: rgba(177, 177, 177, 0.479);
 	--color-text: white;
 }
 
